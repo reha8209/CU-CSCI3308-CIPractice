@@ -1,4 +1,4 @@
 language: c
-install: make dep
+install: sudo make dep
 compiler: gcc
 script: make test

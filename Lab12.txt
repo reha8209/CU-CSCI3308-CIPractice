@@ -1,0 +1,5 @@
+Name: Rebekah Haysley
+CSCI3308 Lab 12
+
+Travis CI link: https://travis-ci.org/reha8209/CU-CSCI3308-CIPractice
+Github link: https://github.com/reha8209/CU-CSCI3308-CIPractice
